@@ -7,10 +7,11 @@ I'm learning QA and automation through small self-built projects.
 [![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)](https://learn.microsoft.com/powershell/)
 
 ## What I'm Working On (June 2025)
-- Building a small Flask app to practice QA
-- Wrote STP and STD docs for version 0.0.1
-- Will start running tests and logging bugs soon
-- Starting to look into Postman, Python and Playwright
+- Building a small Flask app to practice QA  
+- Wrote STP and STD docs for version 0.0.1  
+- Ran 5 basic test cases manually in Chrome, Edge, Firefox, and Opera  
+- Logged results in an STR  
+- Starting to look into Postman and Playwright
 
 ## Projects
 - [**Flask QA Practice**](https://github.com/MichaelShults/visit-later-app): Basic CRUD app + test docs
