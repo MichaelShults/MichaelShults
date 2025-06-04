@@ -15,6 +15,9 @@ I'm learning QA and automation through small self-built projects.
 ## Projects
 - [**Flask QA Practice**](https://github.com/MichaelShults/visit-later-app): Basic CRUD app + test docs
 - [**PowerShell Scripts**](https://github.com/MichaelShults/powershell-scripts-practice): Small scripts, like a folder backup tool
+- [**Manual Tagging Practice**](https://github.com/MichaelShults/manual-tagging-practice): Manual annotation with CSV labels and edge cases
+
+
 
 ## Tools & Topics
 - Manual QA: test plans, test cases, bug logging
