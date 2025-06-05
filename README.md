@@ -8,9 +8,9 @@ I'm learning QA and automation through small self-built projects.
 
 ## What I'm Working On (June 2025)
 - Building a small Flask app to practice QA  
-- Wrote STP and STD docs for version 0.0.1  
-- Ran 5 basic test cases manually in Chrome, Edge, Firefox, and Opera  
-- Logged results in an STR  
+- Wrote STP and STD docs for two development cycles 
+- Ran 10 basic test cases manually in Chrome, Edge, Firefox, and Opera  
+- Logged results in STR docs  
 - Starting to look into Postman and Playwright
 
 ## Projects
