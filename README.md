@@ -7,23 +7,23 @@ I'm learning QA and automation through small self-built projects.
 [![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)](https://learn.microsoft.com/powershell/)
 
 ## What I'm Working On (June 2025)
-- Building a small Flask app to practice QA  
-- Wrote STP and STD docs for two development cycles 
-- Ran 10 basic test cases manually in Chrome, Edge, Firefox, and Opera  
-- Logged results in STR docs  
-- Starting to look into Postman and Playwright
+- Building a small Flask app to practice QA
+- Added form validation with Flask-WTF
+- Wrote STP and STD docs for three development cycles
+- Ran test cases in Chrome, Firefox, Edge and Opera
+- Logged results in STR docs
+- Reported and fixed 7 bugs (including form validation bugs and deletion edge cases)
 
 ## Projects
-- [**Flask QA Practice**](https://github.com/MichaelShults/visit-later-app): Basic CRUD app + test docs
+- [**Flask QA Practice**](https://github.com/MichaelShults/visit-later-app): Basic CRUD app with test docs and bug logs (latest release: `v0.0.4`)
 - [**PowerShell Scripts**](https://github.com/MichaelShults/powershell-scripts-practice): Small scripts, like a folder backup tool
 - [**Manual Tagging Practice**](https://github.com/MichaelShults/manual-tagging-practice): Manual annotation with CSV labels and edge cases
 
 
 
 ## Tools & Topics
-- Manual QA: test plans, test cases, bug logging
+- Manual QA: test plans, test cases, bug logging, test reports
 - Git, Markdown, PowerShell, Python
-- Trying out Postman, Playwright
 
 ## Links
 - [**LinkedIn**](https://www.linkedin.com/in/michael-shults-b01b16227/)
