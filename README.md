@@ -7,13 +7,14 @@ I'm learning QA and test automation by building and testing small web apps, with
 [![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)](https://learn.microsoft.com/powershell/)
 
 ## Projects
-- [**'Visit Later' (Flask CRUD web app - WIP)**](https://github.com/MichaelShults/visit-later-app):
-  - Latest release: `v0.0.5` (11/07/2025)
-  - Wrote STP/STD/STR docs across four development cycles
-  - Reported and fixed 13 bugs (including form validation bugs and deletion edge cases) 
-- [**PowerShell Scripts**](https://github.com/MichaelShults/powershell-scripts-practice): Small scripts, like a folder backup tool
-- [**Manual Tagging Practice**](https://github.com/MichaelShults/manual-tagging-practice): Manual annotation with CSV labels and edge cases
+- ### [**'Visit Later' (Flask CRUD web app) - Manual Testing**](https://github.com/MichaelShults/visit-later-app)
+  Wrote STP/STD/STR docs across four development cycles. Reported and fixed 13 bugs.
+  - #### Screenshots
+      <img src="https://github.com/user-attachments/assets/087e6907-54c9-488e-99a0-e4344b2e8a6f" width="50%" height="50%" />
 
+
+- ### [**PowerShell Scripts**](https://github.com/MichaelShults/powershell-scripts-practice)
+  Small PowerShell scripts to practice automation.
 
 ## Tools & Topics
 - **Manual QA:** STP, STD, STR, bug reports, test cycles
