@@ -10,7 +10,7 @@ I'm learning QA and test automation by building and testing small web apps, with
 - ### [**'Visit Later' (Flask CRUD web app) - Manual Testing**](https://github.com/MichaelShults/visit-later-app)
   Wrote STP/STD/STR docs across four development cycles. Reported and fixed 13 bugs.
   - #### Screenshots
-      <img src="https://github.com/user-attachments/assets/087e6907-54c9-488e-99a0-e4344b2e8a6f" width="50%" height="50%" />
+      <img src="https://github.com/user-attachments/assets/087e6907-54c9-488e-99a0-e4344b2e8a6f" width="100%" />
 
 
 - ### [**PowerShell Scripts**](https://github.com/MichaelShults/powershell-scripts-practice)
